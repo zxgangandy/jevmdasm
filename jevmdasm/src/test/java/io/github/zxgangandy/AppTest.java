@@ -1,4 +1,4 @@
-package org.io.github.zxgangandy;
+package io.github.zxgangandy;
 
 import static org.junit.Assert.assertTrue;
 
