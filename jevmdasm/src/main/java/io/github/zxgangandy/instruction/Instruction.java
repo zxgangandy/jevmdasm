@@ -1,4 +1,4 @@
-package io.github.zxgangandy;
+package io.github.zxgangandy.instruction;
 
 /**
  * @className: Instruction
